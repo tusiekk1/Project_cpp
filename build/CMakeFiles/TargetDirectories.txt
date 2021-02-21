@@ -1,0 +1,3 @@
+D:/studia/5semestr/cpp/project_final_armaty/build/CMakeFiles/Snake.dir
+D:/studia/5semestr/cpp/project_final_armaty/build/CMakeFiles/edit_cache.dir
+D:/studia/5semestr/cpp/project_final_armaty/build/CMakeFiles/rebuild_cache.dir
